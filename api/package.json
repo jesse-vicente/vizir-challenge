@@ -6,7 +6,7 @@
   "scripts": {
     "dev:server": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/server.ts",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
-    "seed:run": "ts-node-dev ./node_modules/typeorm-seeding/dist/cli.js seed",
+    "typeorm:seed": "ts-node-dev ./node_modules/typeorm-seeding/dist/cli.js seed",
     "test": "jest"
   },
   "devDependencies": {
