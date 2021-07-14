@@ -1,7 +1,7 @@
 
 # Telzir - FaleMais
 
-![Telzir](https://raw.githubusercontent.com/jesse-vicente/vizir-challenge/7239b4e3512766866254ae40bbff451a98b64bf9/frontend/src/assets/demonstration.gif?token=ALK6A4DNZT3BASB7ZHF6Y33A54HA4)
+![Telzir](https://raw.githubusercontent.com/jesse-vicente/vizir-challenge/main/frontend/src/assets/demonstration.gif?token=ALK6A4EUBYBHMWDLVQQZEDDA54LMI)
 
 ## Passo a passo
 
