@@ -1,7 +1,7 @@
 
 # Telzir - FaleMais
 
-![Telzir](https://imgur.com/5cmc9jq)
+![Telzir](https://i.imgur.com/5cmc9jq.gif)
 
 ## Passo a passo
 
